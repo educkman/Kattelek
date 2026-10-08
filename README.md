@@ -20,6 +20,9 @@ Open the GitHub Pages link, lay the tablet flat on the floor and press **Start h
 
 **iPad / iPhone:** open in Safari → Share → **Add to Home Screen** for true full screen.
 Use **Guided Access** (Settings → Accessibility) to keep your cat from leaving the game.
+Use Guided Access (Settings → Accessibility) to keep your cat from leaving the game.
+Android tablet / phone: open in Chrome → ⋮ menu → Add to Home screen (or Install app) for true full screen.
+Use App pinning (Settings → Security → App pinning) to keep your cat from leaving the game.
 
 ## License
 
